@@ -1,2 +1,2 @@
 # Cyberpunk-REDscript-debugging-tool-for-the-native-MacOS-port
-An Ai generated troubleshooting webapp for REDscript, I was trying to get the game to launch with redscript installed but had no success, but a Ai agentic generated this and while i have yet to try it, it seems like it might potentially be useful as a base for a real tool. Use this however you please, id love if this slop turned out to be useful.
+An Ai generated troubleshooting webapp for REDscript, I was trying to get the game to launch with redscript installed but had no success, but a Ai agent generated this and while i have yet to try it, it seems like it might potentially be useful as a base for a real tool. Use this however you please, id love if this slop turned out to be useful.
